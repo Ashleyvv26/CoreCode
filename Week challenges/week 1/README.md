@@ -10,7 +10,7 @@
   ALGORITHM:
   
   > 1. Get the amount of money that you want to calculate.
-  > 2. Investigate how much is the your local currency exchange in USD. 
+  > 2. Investigate how much is your local currency exchange in USD. 
   > 3. Divide the amount of your local currency exchange with the desired amount of money you wanted to calculate.
   > 4. If you want to check if you did correctly that calculation, check this link for more information [Currency Web Site](https://www.xe.com/currencyconverter/) 
 
