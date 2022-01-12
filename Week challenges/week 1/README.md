@@ -2,10 +2,10 @@
 #### ✅ Watch video about compilation and interpretation
 #### ✅ Search and answer the question: Java language is compiled or interpreted?
    > Java is language that is interpreted but it's also compiled, why? depending on the execution environment bytecode can be:
-   > - compiled ahead of time and executed as native code (similar to most C++ compilers)
-   > - compiled just-in-time and executed
-   > - interpreted
-   > - directly executed by a supported processor
+   > - Compiled ahead of time and executed as native code (similar to most C++ compilers)
+   > - Compiled just-in-time and executed
+   > - Interpreted
+   > - Directly executed by a supported processor
 #### ✅Create an algorithm to calculate the equivalent of your local currencty to USD
   ALGORITHM:
   
