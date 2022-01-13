@@ -4,5 +4,7 @@ Core Code Bootcamp
 ## INDEX
 
 ### 💻 Program Files by weeks
+####  WEEK 1
+- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
 
-- Go to [Week 1](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
+  - Go to [Programs](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
