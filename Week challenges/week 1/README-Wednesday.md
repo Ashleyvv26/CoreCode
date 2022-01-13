@@ -6,6 +6,9 @@
    > Base 2 (Binary): Represent any number using 2 digits [0–1]
    > 
    > Base 16(Hexadecimal): Represent any number using 10 digits and 6 characters [0–9, A, B, C, D, E, F]
+
+
+
    > ![alt text](https://www.watelectronics.com/wp-content/uploads/Hexadecimal-and-Binary-Number-System-Representation.jpg)
 #### ✅ Translate the year you where born to binary, decimal and hexadecimal
 |      | Birth Year| Binary | Decimal|Hexadecimal|
