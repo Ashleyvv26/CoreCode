@@ -30,3 +30,4 @@
 ☑️ 5.2 Create a program that display your name.
 
 Got to [Programs for this section](CoreCode/Week challenges/week 1/WednesdayFiles/README.md)
+[README](CoreCode/Week challenges/week 1/WednesdayFiles/README.md)
