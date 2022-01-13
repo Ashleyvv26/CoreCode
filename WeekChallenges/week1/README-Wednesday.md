@@ -29,4 +29,4 @@
 
 ☑️ 5.2 Create a program that display your name.
 
-Go to [Programs for this last section](Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
+Go to [Programs for this last section](Ashleyvv26/CoreCode/WeekChallenges/week1/WednesdayFiles/README.md)
