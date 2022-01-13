@@ -1,4 +1,4 @@
-# Tuesday (Jan 10, 2022)
+# Tuesday (Jan 11, 2022)
 #### ✅ Watch video about compilation and interpretation
 #### ✅ Search and answer the question: Java language is compiled or interpreted?
    > Java is language that is interpreted but it's also compiled, why? depending on the execution environment bytecode can be:
