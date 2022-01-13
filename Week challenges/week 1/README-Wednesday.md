@@ -28,3 +28,5 @@
 ☑️ 5.1 Create a program to add two numbers given by the user
 
 ☑️ 5.2 Create a program that display your name.
+
+Got to [Programs for this section](/Week challenges/week1/WednesdayFiles/README)
