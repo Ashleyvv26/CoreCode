@@ -1,7 +1,7 @@
 .data
-	number1: .asciiz "\nIngrese el primer numero: "
-	number2: .asciiz "\nIngrese el segundo numero: "
-	result_message: .asciiz "\nEl resultado de la sumatoria es: "
+	number1: .asciiz "\nEnter the first number: "
+	number2: .asciiz "\nEnter the second number: "
+	result_message: .asciiz "\nThe result of the sum is: "
 .text
 	main:
 		li $v0, 4
