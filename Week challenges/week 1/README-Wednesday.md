@@ -1,12 +1,18 @@
-
 # Wednesday (Jan 12, 2022)
 #### ✅ Learn about binary, decimal and hexadecimal numbers
+💡Let's summarize the concepts
+   > Base 10 (Decimal): Represent any number using 10 digits [0–9]
+   > 
+   > Base 2 (Binary): Represent any number using 2 digits [0–1]
+   > 
+   > Base 16(Hexadecimal): Represent any number using 10 digits and 6 characters [0–9, A, B, C, D, E, F]
 #### ✅ Translate the year you where born to binary, decimal and hexadecimal
-   > Java is language that is interpreted but it's also compiled, why? depending on the execution environment bytecode can be:
-   > - Compiled ahead of time and executed as native code (similar to most C++ compilers)
-   > - Compiled just-in-time and executed
-   > - Interpreted
-   > - Directly executed by a supported processor
+|      | Birth Year| Binary | Decimal|Hexadecimal|
+|:-------------:| :---: |:-------------:|:-------------:|:-----:|
+|Operation |1996| <table>  <thead>  <tbody> <tr>  <td>2<sup>0</sup></td>  <td>0</td>  </tr> <tr>  <td>2<sup>1</sup></td>  <td>0</td>  </tr>  <tr>  <td>2<sup>2</sup></td>  <td>1</td>  </tr>  <tr>  <td>2<sup>3</sup></td>  <td>1</td>  </tr>  <tr>  <td>2<sup>4</sup></td>  <td>0</td>  </tr> <tr>  <td>2<sup>5</sup></td>  <td>0</td>  </tr> <tr>  <td>2<sup>6</sup></td>  <td>1</td>  </tr>  <tr>  <td>2<sup>7</sup></td>  <td>1</td>  </tr>  <tr>  <td>2<sup>8</sup></td>  <td>1</td>  </tr>  <tr>  <td>2<sup>9</sup></td>  <td>1</td>  </tr> <tr>  <td>2<sup>10</sup></td>  <td>1</td>  </tr>  </tbody>  </table>| 6+(10 * 9) + (100 * 9) + (1000 * 1)|11111001100 |
+|Result   |1996 |11111001100|1996 |$1600 |
+![Bilby Stampede](![image](https://www.watelectronics.com/wp-content/uploads/Hexadecimal-and-Binary-Number-System-Representation.jpg))
+
 #### ✅Translate 51966 into hexadecimal and binary
   ALGORITHM:
   
