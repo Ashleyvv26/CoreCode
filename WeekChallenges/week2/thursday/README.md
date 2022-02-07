@@ -9,7 +9,7 @@ I am Ashley Valdez Vasquez.
 I am Flutter App Developer, I've been developing apps for Android and iOS connected to different databases and APIs.
 
 ### 3. Who do you want to be?
-I want to be one of the software developers that can help other programmers that still growing on this field and giving them tips that will help them to have more skills and get prepared for real life problems as a real programmer.
+I want to be one of the software developers that can help other programmers that are still growing on this field and giving them tips that will help them to have more skills and get prepared for real life problems as a real programmer.
 
 ### 4. What do you want to do?
 I want to improve my skills as a software developer and work for big companies like Microsoft, FAANG.
