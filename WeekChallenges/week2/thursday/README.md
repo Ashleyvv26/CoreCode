@@ -6,7 +6,7 @@
 
 I am Ashley Valdez Vasquez.
 ### 2. What background do you have?
-I am Flutter App Developer, I've been developing apps for Android and iOS using different databases.
+I am Flutter App Developer, I've been developing apps for Android and iOS connected to different databases and APIs.
 
 ### 3. Who do you want to be?
 I want to be one of the software developers that can help other programmers that still growing on this field and giving them tips that will help them to have more skills and get prepared for real life problems as a real programmer.
