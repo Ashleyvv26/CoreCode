@@ -17,7 +17,7 @@ Core Code Bootcamp
 ####  WEEK 3
 - Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week3/monday)
 ####  WEEK 4
 - Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
 
