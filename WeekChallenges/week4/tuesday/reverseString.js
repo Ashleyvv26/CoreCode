@@ -1,29 +1,6 @@
-/*Revertirla del 5to ecaracter en adelante*/
-
+/*https://www.codewars.com/kata/5264d2b162488dc400000001*/
 function spinWords(string){
-    //Dividir String de 5 en adelante
-    
-     let frase = Array.from(string) ; 
-     let size = frase.length;
-
-    //  Del caracter 5 en adelante, revertirlo
-
-    var segundaParteFrase=frase.slice(5,size);
-     //Segundo string revertirlo
-     
-    segundaParteFrase.reverse() ; 
-
-    //sumarla al arreglo
-
-    var finalArray= frase.slice(0,4).concat (segundaParteFrase ); 
-
-    
-
- console.log( finalArray.toString().replace(/,/g,""));
-
-     
-     //Devolverlo en string
-   }
-
-
-   spinWords("Welcem")
+  return string.replace(/\w{5,}/g, 
+    function(w) {return w.split('').reverse().join('')}
+  )
+}
