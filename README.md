@@ -38,17 +38,16 @@ Core Code Bootcamp
 
  ####  WEEK 6
 - Exercises of the week
-  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
-  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
-  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week6/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week6/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week6/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week6/thursday)
 
 ####  WEEK 7
 - Exercises of the week
-  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
-  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
-  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week7/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week7/tuesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week7/thursday)
 
 ####  WEEK 8
 - Exercises of the week
