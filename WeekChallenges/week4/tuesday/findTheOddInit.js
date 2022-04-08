@@ -1,10 +1,15 @@
-// function findOdd(A) {
-//     let oddApp  ; 
-//     let counter  = 1 ; 
-//     A.sort((a,b)=>a-b)
-//     console.log(a)
-  
-
-//     return oddApp;
-//   }
-//   findOdd([1,2,4,6,7,4,3,2,1])
+/*https://www.codewars.com/kata/54da5a58ea159efa38000836*/
+function findOdd(A) {
+  let count = 0;
+  let arr = A.sort((a, b) => a - b);
+  for (let i = 0; i < arr.length; i++) {
+    for (let j = 0; j < arr.length; j++) {
+      if (arr[i] == arr[j]) {
+        count++;
+      }
+    }
+    if (count % 2 !== 0) {
+      return arr[i];
+    }
+  }
+}
