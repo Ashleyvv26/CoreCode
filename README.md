@@ -65,7 +65,5 @@ Core Code Bootcamp
 ####  WEEK 10
 - Exercises of the week
   - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
-  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
-  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
+  - Go to [Project](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week10/proyecto)
 
