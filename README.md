@@ -20,6 +20,7 @@ Core Code Bootcamp
   - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week3/monday)
   - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week3/tuesday)
   - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week3/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week3/thursday)
 ####  WEEK 4
 - Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
 
