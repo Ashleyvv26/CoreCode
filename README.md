@@ -9,9 +9,9 @@ Core Code Bootcamp
 
   - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
 ####  WEEK 2
-- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
+- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/blob/main/WeekChallenges/week2/thursday/README.md)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week2/thursday)
 ####  WEEK 3
 - Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
 
