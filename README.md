@@ -11,6 +11,8 @@ Core Code Bootcamp
 ####  WEEK 2
 - Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/blob/main/WeekChallenges/week2/thursday/README.md)
 
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week2/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week2/wednesday)
   - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week2/thursday)
 ####  WEEK 3
 - Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
