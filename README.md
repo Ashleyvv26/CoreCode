@@ -30,26 +30,44 @@ Core Code Bootcamp
   - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week4/thursday)
   
 ####  WEEK 5
-- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
+- Exercises of the week
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
  ####  WEEK 6
-- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
+- Exercises of the week
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
 ####  WEEK 7
-- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
+- Exercises of the week
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
 ####  WEEK 8
-- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
+- Exercises of the week
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
 ####  WEEK 9
-- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
+- Exercises of the week
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
 ####  WEEK 10
-- Questions [(Answered)](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1)
+- Exercises of the week
+  - Go to [Programs from Monday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/monday)
+  - Go to [Programs from Tuesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/tuesday)
+  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/wednesday)
+  - Go to [Programs from Thursday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week5/thursday)
 
-  - Go to [Programs from Wednesday](https://github.com/Ashleyvv26/CoreCode/tree/main/WeekChallenges/week1/WednesdayFiles)
